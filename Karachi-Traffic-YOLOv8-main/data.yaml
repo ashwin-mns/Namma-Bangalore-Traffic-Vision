@@ -1,0 +1,28 @@
+train: ./dataset/train/images
+val: ./dataset/val/images
+
+# Number of classes
+nc: 19
+
+# Classes names
+names: [
+  'Person', 
+  'Motorcycle', 
+  'Cycle', 
+  'Car', 
+  'Rickshaw', 
+  'Truck', 
+  'JCB', 
+  'Cattle Vehicle', 
+  'Van', 
+  'Crane', 
+  'Bus', 
+  'Jeep', 
+  'Aeroplane', 
+  'Tractor', 
+  'Helicopter', 
+  'Jet', 
+  'Train', 
+  'Lorry', 
+  'Road Roller'
+]
