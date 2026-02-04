@@ -91,3 +91,10 @@ Click **"📥 Download Report"** to get a `.csv` file with the total counts for 
 ---
 **Author**: Developed for AI Traffic Solutions.
 **License**: MIT
+
+<img width="1908" height="774" alt="Screenshot 2026-02-04 230154" src="https://github.com/user-attachments/assets/24685599-068e-4790-aaf2-ab1a669cd3a7" />
+
+<img width="1327" height="359" alt="Screenshot 2026-02-04 230130" src="https://github.com/user-attachments/assets/5f0b0ed9-c61e-4a4c-9e04-f77f9ceb7b30" />
+
+<img width="354" height="705" alt="Screenshot 2026-02-04 230206" src="https://github.com/user-attachments/assets/993bd14d-f8eb-40a8-a676-a0fb4bfe34bb" />
+
